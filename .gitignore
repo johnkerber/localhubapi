@@ -1,0 +1,6 @@
+#ignore composer dependencies, let it build on local and AWS
+/vendor/
+
+#ignore .env variables
+.env
+
